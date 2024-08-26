@@ -1,0 +1,8 @@
+.Checkout {
+
+@apply @media (min-width: 640px) {
+    .sm\:w-auto {
+        width: 100%;
+    }
+}
+}
